@@ -1,2 +1,2 @@
 # pratice-git-flow
-Exemplode de aplicação do git flow.
+Exemplo de de aplicação do git flow.
